@@ -1,0 +1,15 @@
+{
+  "name": "jaydip-server",
+  "version": "1.0.0",
+  "description": "creating rest api using express js like get, post, put, delete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
